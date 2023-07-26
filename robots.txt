@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://onnozone.fr/sitemap.xml
