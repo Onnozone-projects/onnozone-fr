@@ -3,7 +3,7 @@
     <title>Onnozone France</title>
     <link href="https://onnozone.fr/feed.xml" rel="self" />
     <link href="https://onnozone.fr" />
-    <updated>2023-11-08T23:12:32+01:00</updated>
+    <updated>2024-04-15T18:39:18+02:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
@@ -18,9 +18,8 @@
         <id>https://onnozone.fr/souvenir-renaissance/</id>
         <media:content url="https://onnozone.fr/media/posts/74/01.jpg" medium="image" />
             <category term="MV Renaissance"/>
-            <category term="HERO"/>
 
-        <updated>2023-11-08T23:12:32+01:00</updated>
+        <updated>2024-04-15T18:39:18+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.fr/media/posts/74/01.jpg" alt="" />
